@@ -2,7 +2,7 @@ pipeline {
     agent any
     
     environment {
-        DIRECTORY_PATH = "F:\Deakin Masters Studies\2nd Sem\profe\Jenkinsfile"
+        DIRECTORY_PATH = "F:\\Deakin Masters Studies\\2nd Sem\\profe\\Jenkinsfile"
         TESTING_ENVIRONMENT = "testing"
         PRODUCTION_ENVIRONMENT = "Continuous-Delivery-Pipeline"
     }
